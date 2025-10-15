@@ -48,8 +48,8 @@
 }
 
 .background{
-  background-color: rgb(70, 86, 114);
-  height: 109vh;
+  background-color: rgb(28, 62, 121);
+  height: 160vh;
   padding-top: 50px;
 }
 
@@ -59,7 +59,7 @@
   padding: 20px;
   margin: auto;
   width: 1000px;
-  height: 100vh;
+  height: 150vh;
   padding-top: 30px;
   text-align: left;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
